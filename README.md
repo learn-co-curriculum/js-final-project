@@ -21,4 +21,4 @@ Unless otherwise discussed with your instructor, this isn't the best time to lea
 
 ## Thoughts
 
-Your project should be an extercise in reinforcing what you've learned with JavaScript, not necessarily about incorporating external libraries. It's kind of hard to get away with not using them (remember jQuery is a library!), but you'll have more time in Project Mode, with personal projects later on, and in your career to work with external libraries. Take this time to get really comfortable with all aspects of the language and to build things from scratch.
+Your project should be an exercise in reinforcing what you've learned with JavaScript, not necessarily about incorporating external libraries. It's kind of hard to get away with not using them (remember jQuery is a library!), but you'll have more time in Project Mode, with personal projects later on, and in your career to work with external libraries. Take this time to get really comfortable with all aspects of the language and to build things from scratch.
