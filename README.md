@@ -1,7 +1,4 @@
----
-tags: javascript, final project
-language: javascript
----
+
 
 # JavaScript Final Project
 
